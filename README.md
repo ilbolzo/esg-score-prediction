@@ -4,9 +4,8 @@ A machine learning pipeline to predict ESG (Environmental, Social, and Governanc
 
 ## 📂 Files
 
-- `redicting ESG Sustaniablity Scores from Corporate Financial and Environmental Data
-.ipynb`: Full Jupyter notebook containing code, visualizations, and explanations.
-- `company_esg_financial_dataset.csv`: The dataset used for training and testing.
+- `notebook.ipynb`: Full Jupyter notebook containing code, visualizations, and explanations.
+- `dataset.csv`: The dataset used for training and testing.
 - `README.md`: Project overview and usage instructions.
 
 ## ⚙️ Features
