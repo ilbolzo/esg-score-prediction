@@ -2,6 +2,12 @@
 
 A machine learning pipeline to predict ESG (Environmental, Social, and Governance) scores using supervised regression models. The project includes data preprocessing, model selection with nested cross-validation, hyperparameter tuning, and evaluation through learning curves and residual analysis.
 
+## 🔗 Interactive Version
+
+You can explore and run the full notebook online via Deepnote:
+
+👉 [Open in Deepnote](https://deepnote.com/app/ml2024pv-79ee/Predicting-ESG-Sustainability-Scores-from-Corporate-Financial-and-Environmental-Data-240d1f57-71a1-402e-b4d7-2a44ecc33c78?utm_source=status-bar&utm_medium=product-shared-content&utm_campaign=data-app&utm_content=240d1f57-71a1-402e-b4d7-2a44ecc33c78)
+
 ## 📂 Files
 
 - `notebook.ipynb`: Full Jupyter notebook containing code, visualizations, and explanations.
