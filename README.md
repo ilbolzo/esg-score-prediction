@@ -48,3 +48,12 @@ A machine learning pipeline to predict ESG (Environmental, Social, and Governanc
 ## 🧠 Motivation
 
 The goal of this project was to explore how machine learning can be used to model ESG performance based on company-level financial and environmental data. The work was part of a university machine learning exam and emphasizes model selection best practices, including nested cross-validation.
+
+## 📁 Dataset Source
+
+The dataset used in this project was originally published on Kaggle:
+
+[🌍 ESG & Financial Performance Dataset](https://www.kaggle.com/datasets/shriyashjagtap/esg-and-financial-performance-dataset)  
+by [Shriyash Jagtap](https://www.kaggle.com/shriyashjagtap) — Licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)
+
+*Some preprocessing and transformation steps were applied in this project.*
